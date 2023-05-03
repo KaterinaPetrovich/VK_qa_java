@@ -1,8 +1,6 @@
-package org.example.tests;
-
 import io.github.bonigarcia.wdm.WebDriverManager;
-import org.example.pages.MailPage;
-import org.example.pages.LoginPage;
+import pages.MailPage;
+import pages.LoginPage;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
