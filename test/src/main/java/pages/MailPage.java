@@ -7,7 +7,7 @@ import org.openqa.selenium.devtools.v85.page.Page;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class MailPage extends Page {
+public class MailPage{
 
     public static final String url = "https://e.mail.ru/inbox";
 
